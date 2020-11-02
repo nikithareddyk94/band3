@@ -1,0 +1,102 @@
+@media(min-width:320px) and (max-width:580px){
+    
+    .tool_content{
+        padding: 50px 0px 300px;
+    }
+    
+    .sub_content{
+        margin:  0px 10px
+    }
+    .customer_experience {
+    padding: 0px 20px !important;
+    width: 100%;
+    float: left;
+}
+    .all_features,.all_features1{
+        width: 100%;
+    }
+    .company_service span {
+    width: 100%;
+    }
+    .inside_content {
+    width: 71%;
+    float: left;
+    margin-left: 10px;
+}
+    .all_features1 .inside_content span {
+    width: 100%;
+}
+    .all_features1 .inside_content span {
+    color: #e9a3a6;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    font-size: 13px;
+}
+    .event_img{
+        width: 87%;
+        float: left;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .event_img img {
+    width: 290px;
+}
+    .description{
+        width: 100%;
+        float: left;padding-left: 15px;
+    }
+    .upcoming_section{
+        padding: 0px;
+    }
+    .blog_data {
+    padding: 0px !important;
+    margin: 20px;
+    width: 88%;
+    float: left;
+}
+    .blog_details {
+    padding: 0px 0px 0px 0px;
+    }
+    .upcoming_titles{
+        text-align: center;
+    }
+    .contact-info {
+    padding: 0px;
+}
+    .contact-info li:first-child {
+    width: 100% !important;
+}
+    .contact-info li {
+    list-style: none;
+    display: inline-block;
+    color: #FFF;
+    border-right: 1px solid #fff;
+    width: 30%;
+    text-align: center;
+    margin-top: 15px;
+}
+    .email_footer .input-group {
+    display: flex;
+    width: 94% !important;
+    margin: auto 10px;
+}
+    .bolg_date {
+    
+    padding: 26px 4px 91px !important;
+    }
+}
+@media (max-width: 600px){
+.header-fixed {
+    padding: 20px 0;
+    height: 100px !important;
+}
+.slick-slide{
+        width: 220px !important;
+    margin: 0px 40px !important;
+    }
+    .slick-track{
+        width: 1650px !important;
+        float: left;
+    }
+}
